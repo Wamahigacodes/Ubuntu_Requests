@@ -1,4 +1,4 @@
-# Ubuntu-Inspired Image Fetcher
+# Ubuntu_Inspired Image Fetcher
 
 A Python script that embodies the Ubuntu philosophy of "I am because we are" by respectfully fetching and organizing images from the global web community.
 
